@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Olá, sou Ana Paula, natural do Rio de Janeiro, estudante de Sistemas de Informação na Universidade Veiga de Almeida, atualmente no último período, finalizando meu curso. Com formação acadêmica sólida, possuo experiências acadêmicas em Java, conexão com bancos de dados MySQL, programação mobile, HTML, CSS e JavaScript. Desenvolvi projetos acadêmicos notáveis, como um sistema de gerenciamento de biblioteca utilizando os pilares da Programação Orientação a Objetos, o projeto é em Java com funcionalidades CRUD e também projeto web, entre outros. Estou em busca de oportunidades que me permitam aplicar meus conhecimentos e habilidades em um ambiente profissional e contribuir para projetos inovadores.</p>
+<p align="left">Olá, sou Ana Paula, natural do Rio de Janeiro, estudante de Sistemas de Informação na Universidade Veiga de Almeida, atualmente no último período, finalizando meu curso. Com formação acadêmica sólida, possuo experiências acadêmicas em Java, conexão com bancos de dados MySQL, programação mobile, HTML, CSS e JavaScript. Desenvolvi projetos acadêmicos notáveis, como um sistema de gerenciamento de biblioteca utilizando os pilares da Programação Orientação a Objetos, o projeto é em Java com funcionalidades CRUD. Também fiz um projeto web, entre outros. Estou em busca de oportunidades que me permitam aplicar meus conhecimentos e habilidades em um ambiente profissional e contribuir para projetos inovadores.</p>
 
 ###
 
